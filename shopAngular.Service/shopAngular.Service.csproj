@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\shopAngular.Common\shopAngular.Common.csproj" />
+    <ProjectReference Include="..\shopAngular.Data\shopAngular.Data.csproj" />
+    <ProjectReference Include="..\shopAngular.Model\shopAngular.Model.csproj" />
+  </ItemGroup>
+
+</Project>

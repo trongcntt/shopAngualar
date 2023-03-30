@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DUkqHPaBUKcfUp64em6PvDphIsyJIJrlfBbF1ghC7FCwrywTNkrlQzYfan4ykVzlrdyGJx9eaG58M3I3yvvZmw==",
+  "success": true,
+  "projectFilePath": "D:\\wed_learn\\Angular\\ShopAngularjs\\ClassLibrary1\\ClassLibrary1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Latitude E7480\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Latitude E7480\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

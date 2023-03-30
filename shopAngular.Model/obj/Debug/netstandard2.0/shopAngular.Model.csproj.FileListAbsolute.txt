@@ -1,0 +1,10 @@
+D:\wed_learn\Angular\ShopAngularjs\shopAngular.Model\bin\Debug\netstandard2.0\shopAngular.Model.deps.json
+D:\wed_learn\Angular\ShopAngularjs\shopAngular.Model\bin\Debug\netstandard2.0\shopAngular.Model.dll
+D:\wed_learn\Angular\ShopAngularjs\shopAngular.Model\bin\Debug\netstandard2.0\shopAngular.Model.pdb
+D:\wed_learn\Angular\ShopAngularjs\shopAngular.Model\obj\Debug\netstandard2.0\shopAngular.Model.csproj.AssemblyReference.cache
+D:\wed_learn\Angular\ShopAngularjs\shopAngular.Model\obj\Debug\netstandard2.0\shopAngular.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\wed_learn\Angular\ShopAngularjs\shopAngular.Model\obj\Debug\netstandard2.0\shopAngular.Model.AssemblyInfoInputs.cache
+D:\wed_learn\Angular\ShopAngularjs\shopAngular.Model\obj\Debug\netstandard2.0\shopAngular.Model.AssemblyInfo.cs
+D:\wed_learn\Angular\ShopAngularjs\shopAngular.Model\obj\Debug\netstandard2.0\shopAngular.Model.csproj.CoreCompileInputs.cache
+D:\wed_learn\Angular\ShopAngularjs\shopAngular.Model\obj\Debug\netstandard2.0\shopAngular.Model.dll
+D:\wed_learn\Angular\ShopAngularjs\shopAngular.Model\obj\Debug\netstandard2.0\shopAngular.Model.pdb

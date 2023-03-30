@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "eEAAN1j80wCo6DCG/hfX3Zwi4itye+U/xmEaGonjzjPn6/ec/Xn4zjVjamk2W4VcEegI1V/37WGLErIiCm9CvA==",
+  "success": true,
+  "projectFilePath": "D:\\wed_learn\\Angular\\ShopAngularjs\\shopAngular.Model\\shopAngular.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Latitude E7480\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
+    "C:\\Users\\Latitude E7480\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Latitude E7480\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
